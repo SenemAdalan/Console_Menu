@@ -1,5 +1,8 @@
 ## 📌 Proje Açıklaması
 
+- **Yapılış Tarihi:** 25 Ekim 2023
+- **Son Güncelleme:** 6 Şubat 2025 
+
 Bu proje kullanıcıya çeşitli matematiksel ve mantıksal işlemler sunan, konsol tabanlı bir Python programıdır. Program kullanıcının menüden seçim yaparak farklı hesaplamalar yapmasını sağlar.
 
 ---
